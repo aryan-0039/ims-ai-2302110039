@@ -59,7 +59,9 @@ The general workflow for computational modelling activities is:
 
 ## 👨‍💻 Author
 
-**Aryan**
+**Aryan Bhoi**
+
+Roll No: 2302110039
 
 GitHub: [@aryan-0039](https://github.com/aryan-0039)
 
